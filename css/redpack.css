@@ -26,7 +26,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-    background-image: url('file:///C:/Users/user/Desktop/redpack/redimg/背景.jpg'); /* 替換成你的圖片路徑 */
+    background-image: url('https://taikun123.github.io/red_pack_kun/redimg/背景.JPG');
     background-size: cover;  /* 使背景圖片覆蓋整個頁面 */
     background-position: center; /* 使背景圖片居中 */
     background-repeat: no-repeat; /* 防止背景圖片重複 */
