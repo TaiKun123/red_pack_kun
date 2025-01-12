@@ -4,6 +4,7 @@
 .content h2{
     font-size: 30px;
     padding: 20px;
+    color: aliceblue;
     
 }
 @media (max-width: 768px) {
