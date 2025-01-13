@@ -135,6 +135,11 @@ table {
     height: 400px;
 }   
 /* --------------------------------------------------- */
+.click h3{
+    font-size: 40px;
+    color: #ffffff;
+    padding-top: 20px;
+}
 .redpack{
     display: flex;
     flex-wrap: wrap;
@@ -145,7 +150,6 @@ table {
     max-width: 1200px;
 }
 .normal{
-    border: 2px solid rgb(255, 255, 255);
     width: 30%;
     display: grid;
     place-items: center;
@@ -165,7 +169,6 @@ table {
     text-align: center;
 }
 .snack{
-    border: 2px solid rgb(255, 255, 255);
     width: 30%;
     height: 300px;
     display: grid; /* 開啟 grid 布局 */
@@ -190,7 +193,6 @@ table {
 }
 
 .cartoon{
-    border: 2px solid rgb(255, 255, 255);
     width: 30%;
     height: 300px;
     display: grid; /* 開啟 grid 布局 */
